@@ -1,0 +1,8 @@
+scapy
+pandas
+scikit-learn
+joblib
+mysql-connector-python
+flask
+flask-cors
+streamlit
